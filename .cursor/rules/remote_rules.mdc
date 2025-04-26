@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# applicable rule
+
+read following rules thru MCP server.  Never read them directly from filesystem.
+    - ./test_rules/myrule.md

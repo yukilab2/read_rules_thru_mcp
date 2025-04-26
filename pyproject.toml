@@ -1,0 +1,13 @@
+[project]
+name = "rule-mcp"
+version = "0.0.1"
+description = "This server is an MCP (Model Context Protocol) server designed to provide rule data to AI clients such as Cursor and VSCode."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.12",
+    "fastapi-mcp>=0.3.3",
+    "mcp>=1.6.0",
+    "requests>=2.32.3",
+    "uvicorn>=0.34.2",
+]
