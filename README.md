@@ -1,3 +1,5 @@
+CAUSION:  NO SECURITY MEASURE TAKEN IN THIS MCP YET
+
 # rule_mcp
 
 ## Overview
